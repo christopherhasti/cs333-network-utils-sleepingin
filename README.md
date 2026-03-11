@@ -1,0 +1,15 @@
+# cs333-network-utils-zeroday
+
+This repository contains a collection of network utilities designed for educational purposes, specifically for use in the CS333 course.
+
+## Team Members
+
+* Christopher Hastings
+* TBD
+* TBD
+
+## Quick Start
+
+To get started with the network utilities, follow these steps:
+
+1. Install UV
