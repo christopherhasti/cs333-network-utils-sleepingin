@@ -5,7 +5,7 @@ This repository contains a collection of network utilities designed for educatio
 ## Team Members
 
 * Christopher Hastings
-* TBD
+* James Taylor
 * TBD
 
 ## Quick Start
