@@ -1,11 +1,11 @@
-# cs333-network-utils-zeroday
+# cs333-network-utils-sleepingin
 
 This repository contains a collection of network utilities designed for educational purposes, specifically for use in the CS333 course.
 
 ## Team Members
 
 * Christopher Hastings
-* TBD
+* James Taylor
 * TBD
 
 ## Quick Start
